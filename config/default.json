@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://vasilovskif:filipgosakam04@cluster0.fdx4m.mongodb.net/owlconnector?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://vasilovskif:filipgosakam04@cluster0.fdx4m.mongodb.net/owlconnector?retryWrites=true&w=majority",
+  "jwtSecret": "filipsecretoken"
 }
