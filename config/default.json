@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://vasilovskif:filipgosakam04@cluster0.fdx4m.mongodb.net/owlconnector?retryWrites=true&w=majority",
-  "jwtSecret": "filipsecretoken"
+  "jwtSecret": "filipsecretoken",
+  "githubClientId": "15d2ab5a9ca55297e02a",
+  "githubSecret": "7192ecf7787d4a78bd2527ce6f082f1af654f6c0"
 }
